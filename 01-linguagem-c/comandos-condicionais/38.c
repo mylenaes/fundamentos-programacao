@@ -26,8 +26,10 @@ int main() {
             else {
                 if(dia>= 1 && dia <=28) { printf("Data válida!");}
                 else{ printf("Data invalida!");}
-            } 
+
+            }
         }
     } else { printf("Data invalida!");}
+
     return 0;
 }
